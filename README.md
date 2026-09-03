@@ -1,1 +1,1 @@
-# Data_Course_LUPATU
+# Data_Course_LUPATUThis README file contains information about my uploaded assignments
